@@ -3,7 +3,7 @@
 - Setelah server side dijalankan kalian dapat membuat react js yang tersedia pada https://github.com/RanguraGIT/62teknologi-frontend-test-Agung_Maulana_Syahputra
 
 # END Point yang digunakan
-- post/user
+- post/user ( register user )
 - post/login
 - post/logout ( required auth )
 - business/{id}
